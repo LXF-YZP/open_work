@@ -1,6 +1,7 @@
-# Alik46
+# openwork keyboard
 
-一个类40配列的蓝牙键盘，使用zmk固件。定位板和外壳是一体的，目前外壳支持pcb卫星轴。
+该项目为分体曲面键盘，适合个人diy,所有相关文件都已开源，镂空的46和36配列是不需要螺丝的，因为没有底壳去固定。
+pcb使用的是单个，然后行和列去连接。主控固定部分需要用到热熔胶。由于46和36镂空版本只打印了一个版本且已经卖出去了，所有没有实物图片去分享。
 
 ![](pics/36镂空配列.png)
 ![](pics/46镂空配列.png)
@@ -14,9 +15,9 @@ https://www.zfrontier.com/app/flow/kMoko8PVORwP
 
 |名称       |   数量    |购买链接                                          |
 | --------------------------------- | ------ | ------------------------------------------------------------------------------------------ |
-| 电池开关小板子       |   1    | https://www.jlc.com/newOrder/#/pcb/pcbPlaceOrder                                          |
-| 锂电池                     | 1     |                                                                                            |
-| nice nano v2                | 1    | https://item.taobao.com/item.htm?_u=j1hre4eha9fa&id=729260528560&spm=a1z09.2.0.0.10f62e8dhW3Jef                                                                                   |
+| 电池开关小板子       |   2    | https://www.jlc.com/newOrder/#/pcb/pcbPlaceOrder                                          |
+| 锂电池                     | 2     |                                                                                            |
+| nice nano v2                | 2    | https://item.taobao.com/item.htm?_u=j1hre4eha9fa&id=729260528560&spm=a1z09.2.0.0.10f62e8dhW3Jef                                                                                   |
 | 螺柱 m2x4x3.3| 10    |     |
 | 螺丝   m2x5                | 10      |  |
 |  二极管          | 100     | https://item.taobao.com/item.htm?spm=a1z09.2.0.0.70352e8dhrJ7E7&id=528155613240&_u=q1hre4eh412c                                                                        |
